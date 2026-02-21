@@ -1,44 +1,34 @@
-# Advanced Calculator
+# 📝 Task 2 - To-Do List Application
 
-## Project Description
-The Advanced Calculator is a Python-based application developed as part of the CodSoft Python Internship. 
-It is a menu-driven program designed to perform multiple mathematical operations with proper error handling.
+## 📌 Description
+This project is a simple Command-Line To-Do List application developed using Python.
+It allows users to add, view, and delete tasks efficiently.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Power Calculation
-- Square Root
-- Exception handling for invalid input
-- Continuous execution until user exits
+## 🚀 Features
+- Add new tasks
+- View all tasks
+- Delete tasks
+- Simple and user-friendly menu system
 
-## Technologies Used
-- Python
-- math module
+## 🛠 Technologies Used
+- Python 3
 
-## Installation and Execution
+## ▶ How to Run the Program
 
-1. Ensure Python is installed on your system.
-2. Open terminal in the project directory.
-3. Execute the following command:
+1. Open terminal or command prompt
+2. Navigate to the project folder
+3. Run the following command:
 
-python calculator.py
+   python todo_list.py
 
-## Project Structure
+4. Follow the menu instructions on the screen
 
-Task1_Calculator
-│── calculator.py
-│── README.md
+## 📚 Learning Outcome
+Through this project, I learned:
+- Working with lists in Python
+- Using loops and conditional statements
+- Handling user input
+- Building menu-driven programs
 
-## Learning Outcomes
-- Implementation of Python functions
-- Use of conditional statements and loops
-- Application of exception handling
-- Modular program structure
-
-## Author
-Samiddha Pal  
-B.Tech CSE Student  
-CodSoft Python Intern
+---
+✨ Developed as part of CodSoft Python Programming Internship
